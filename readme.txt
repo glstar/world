@@ -12,3 +12,5 @@ Creating a new branch is quick AND simple.
 fff
 
 ggg
+
+start stash
