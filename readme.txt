@@ -5,3 +5,5 @@ Git is free software.
 EditPlus
 
 sitdown please
+
+Creating a new branch is quick AND simple.
