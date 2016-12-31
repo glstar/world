@@ -7,5 +7,4 @@ Git is free software.
 EditPlus
 
 
-big
-bigworld
+It's a big big world.
