@@ -4,4 +4,4 @@ Git is free software.
 
 EditPlus
 
-please
+sitdown please
