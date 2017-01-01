@@ -15,4 +15,4 @@ ggg
 
 start stash
 
-about ignore
+about gitignore
