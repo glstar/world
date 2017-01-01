@@ -14,3 +14,5 @@ fff
 ggg
 
 start stash
+
+about ignore
